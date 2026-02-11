@@ -86,7 +86,6 @@ R — Result       : Share the outcome
 
 - **TypeScript** — Type-safe implementation
 - **Node.js** — Runtime environment
-- **Moltbook** — Skill distribution platform
 
 ## Design Philosophy
 
