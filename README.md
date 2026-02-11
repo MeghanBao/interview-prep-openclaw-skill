@@ -46,7 +46,7 @@ Bot:  📖 S — Situation
 ## Links
 
 - 📖 [SKILL.md](SKILL.md) — Full documentation
-- 🔗 [GitHub](https://github.com/MeghanBao/openclaw-skills)
+- 🔗 [GitHub](https://github.com/MeghanBao/interview-prep-openclaw-skill)
 
 ---
 
