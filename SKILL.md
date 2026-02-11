@@ -33,12 +33,15 @@ AI-powered interview coaching to help you land your dream job. Practice, learn, 
 ## Quick Start
 
 ```bash
-# Install locally
-mkdir -p ~/.moltbot/skills/interview-prep/
-cp -r /path/to/interview-prep/* ~/.moltbot/skills/interview-prep/
+# Clone the project
+git clone https://github.com/MeghanBao/interview-prep-openclaw-skill-.git
+cd interview-prep-openclaw-skill-
 
-# Or adopt via Moltbook
-[ADOPTED] interview-prep
+# Install dependencies
+npm install
+
+# Build the project
+npm run build
 ```
 
 ## Commands
