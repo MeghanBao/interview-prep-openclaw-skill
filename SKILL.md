@@ -4,7 +4,7 @@ slug: interview-prep
 version: 1.0.0
 author: Meghan
 description: "Master your job interviews with AI-powered coaching — mock interviews, STAR method guidance, and personalized feedback."
-homepage: https://github.com/MeghanBao/openclaw-skills
+homepage: https://github.com/MeghanBao/interview-prep-openclaw-skill
 metadata: {"moltbook":{"emoji":"🎯","requires":{"bins":["node"],"env":[]}}}
 ---
 
@@ -96,7 +96,7 @@ R — Result       : Share the outcome
 
 ## Links
 
-- 🔗 GitHub: https://github.com/MeghanBao/openclaw-skills
+- 🔗 GitHub: https://github.com/MeghanBao/interview-prep-openclaw-skill
 - 📖 Documentation: See SKILL.md
 
 ---
